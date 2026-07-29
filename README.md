@@ -7,7 +7,6 @@ pequeño servidor Flask en Python.
 
 ```
 bye-bye-piojos/
-├── app.py                 ← servidor Flask
 ├── requirements.txt
 ├── templates/
 │   └── index.html         ← el HTML
@@ -29,8 +28,6 @@ bye-bye-piojos/
    pip install -r requirements.txt
    ```
 4. Corré el servidor:
-   ```
-   python app.py
    ```
 5. Abrí http://localhost:5000 en el navegador.
 
